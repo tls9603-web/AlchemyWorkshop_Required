@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 
-using namespace std; // 여기에 using namespace std; 추가
+using namespace std;
 
 // PotionRecipe 클래스: 하나의 물약 레시피 정보를 담는 클래스
 class PotionRecipe {

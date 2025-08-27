@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Cpp Projects\AlchemyWorkshop_Required\AlchemyWorkshop_Required\main.cpp(130,22): warning C4566: 유니버설 문자 이름 '\u2697'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Cpp Projects\AlchemyWorkshop_Required\AlchemyWorkshop_Required\main.cpp(130,22): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  AlchemyWorkshop_Required.vcxproj -> C:\Cpp Projects\AlchemyWorkshop_Required\x64\Debug\AlchemyWorkshop_Required.exe

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cpp Projects\\AlchemyWorkshop_Required\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C153375-E220-43F7-A950-2DBEC7D5A600}|AlchemyWorkshop_Required\\AlchemyWorkshop_Required.vcxproj|C:\\Cpp Projects\\AlchemyWorkshop_Required\\AlchemyWorkshop_Required\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C153375-E220-43F7-A950-2DBEC7D5A600}|AlchemyWorkshop_Required\\AlchemyWorkshop_Required.vcxproj|solutionrelative:AlchemyWorkshop_Required\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Cpp Projects\\AlchemyWorkshop_Required\\AlchemyWorkshop_Required\\main.cpp",
+              "RelativeDocumentMoniker": "AlchemyWorkshop_Required\\main.cpp",
+              "ToolTip": "C:\\Cpp Projects\\AlchemyWorkshop_Required\\AlchemyWorkshop_Required\\main.cpp",
+              "RelativeToolTip": "AlchemyWorkshop_Required\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T06:31:14.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
